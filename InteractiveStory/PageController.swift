@@ -18,7 +18,6 @@ class PageController: UIViewController {
     let secondChoiceButton: UIButton = UIButton(type: .System)
     
     
-    
     required init?(coder aDecoder: NSCoder) {
         super.init(coder: aDecoder)
     }
